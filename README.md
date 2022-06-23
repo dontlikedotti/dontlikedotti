@@ -1,4 +1,29 @@
-<h1 align="center">Hi 👋, I'm dontlikedotti</h1>
-<h3 align="center">and I used Rahul Jain's .readme generator!</h3>
-<h3 style="text-align: center;" align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img style="display: block; margin-left: auto; margin-right: auto;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img style="display: block; margin-left: auto; margin-right: auto;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img style="display: block; margin-left: auto; margin-right: auto;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img style="display: block; margin-left: auto; margin-right: auto;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a></p>
+<p><img alt="" src="https://i.ibb.co/PgDjwww/dd.png" /></p>
+
+<p><strong>Programming Languages (em-dashed by documentation):</strong></p>
+
+<ul>
+	<li>Lua 5.1 <strong>&mdash;&nbsp;</strong><em><a href="https://www.lua.org/docs.html">https://www.lua.org/docs.html</a></em></li>
+	<li>C-Sharp (C#)&nbsp;<strong>&mdash;&nbsp;</strong><em><a href="https://docs.microsoft.com/en-us/dotnet/csharp/">https://docs.microsoft.com/en-us/dotnet/csharp/</a></em></li>
+	<li>Microsoft&#39;s C, and C-Plus Plus Assembler (C++)&nbsp;<strong>&mdash;</strong>&nbsp;<em><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170">https://docs.microsoft.com/en-us/cpp/?view=msvc-170</a></em></li>
+	<li>HyperText (HTML)&nbsp;<strong>&mdash;&nbsp;</strong><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">https://developer.mozilla.org/en-US/docs/Web/HTML</a></li>
+	<li>Cascading Style Sheets (CSS)&nbsp;<strong>&mdash;&nbsp;</strong><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">https://developer.mozilla.org/en-US/docs/Web/CSS</a></li>
+</ul>
+
+<p><strong>Technologies:</strong></p>
+
+<ul>
+	<li>Windows</li>
+	<li>Node.js</li>
+	<li>TCP/IP</li>
+</ul>
+
+<p><strong>Projects/Contributions:&nbsp;</strong><em>Currently private.</em></p>
+
+<p><strong>FiveM</strong></p>
+
+<ul>
+	<li>Currently working on a lot of stuff, stay tuned!</li>
+</ul>
+
+<p>&nbsp;</p>
