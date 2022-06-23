@@ -18,7 +18,7 @@
 	<li>TCP/IP</li>
 </ul>
 
-<p><strong>Projects/Contributions:&nbsp;</strong><em>Currently private.</em></p>
+<p><strong>Projects/Contributions:&nbsp;</strong><em>Currently private and not accessible to the public.</em></p>
 
 <p><strong>FiveM</strong></p>
 
